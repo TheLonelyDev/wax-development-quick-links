@@ -4,8 +4,9 @@
 
 ### Testnet
 
-| Chain id                             | 1064487b3cd1a897ce03ae5b6a865651747e2e152090f99c1d19d44e01aea5a4 |
+|                                      |                                                              |
 | ------------------------------------ | ------------------------------------------------------------ |
+| Chain id                             | 1064487b3cd1a897ce03ae5b6a865651747e2e152090f99c1d19d44e01aea5a4 |
 | WAX endpoints                        | https://github.com/eosswedenorg/waxtestnet/blob/master/endpoints/endpoints.json |
 | Bloks                                | https://wax-test.bloks.io/                                   |
 | AtomicHub                            | https://wax-test.atomichub.io/                               |
@@ -17,8 +18,9 @@
 
 ### Mainnet
 
-| Chain id      | 1064487b3cd1a897ce03ae5b6a865651747e2e152090f99c1d19d44e01aea5a4 |
+|               |                                                              |
 | ------------- | ------------------------------------------------------------ |
+| Chain id      | 1064487b3cd1a897ce03ae5b6a865651747e2e152090f99c1d19d44e01aea5a4 |
 | WAX endpoints | https://validate.eosnation.io/wax/reports/endpoints.html     |
 | Bloks         | https://wax.bloks.io/                                        |
 | AtomicHub     | https://wax.atomichub.io/                                    |

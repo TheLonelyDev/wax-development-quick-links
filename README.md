@@ -12,8 +12,8 @@
 | AtomicHub                            | https://wax-test.atomichub.io/                               |
 | NeftyBlocks                          | https://test.neftyblocks.com/                                |
 | Note                                 | [Anchor](https://greymass.com/anchor/) required for most dApps, Wax Cloud Wallet (WCW) not supported |
-| Creating an account                  | https://faucet.waxsweden.org/create_account?your-wallet-name<br />**Save your keys** |
-| Request more WAX                     | https://faucet.waxsweden.org/get_token?your-wallet-name <br />1K WAX per 24 hours |
+| Creating an account                  | https://faucet.waxsweden.org/create_account?your-wallet-name<br />**Has to be a valid EOS name, a-z 0-5 and 12 characters<br /> Save your keys** |
+| Request more WAX                     | https://faucet.waxsweden.org/get_token?your-wallet-name <br />2 x 500 WAX per 24 hours |
 | More info regarding testnet accounts | https://waxsweden.org/create-testnet-account/                |
 
 ### Mainnet
@@ -109,4 +109,3 @@ Editor's note: please <u>verify</u> and respect the contract licenses
 | Elemental Battles                 | The Elemental Battles Tutorial is divided into easy to follow lessons that take you through the process of creating your own fully-functional blockchain-based dApp. | https://github.com/EOSIO/eosio-card-game-repo         |
 | EOS Knights                       | EOS Knights is the first blockchain game on the EOS platform. All player actions are performed on smart contracts. Data is also stored securely in the EOS blockchain. Let's play EOS Knights together!<br/>Hire a knight to protect the town from the goblins! | https://github.com/bada-studio/knights_contract       |
 | Misc                              | EOSIO smart contracts collection                             | https://github.com/blockmatic/eosio-contracts-list    |
-

@@ -7,7 +7,7 @@
 |                                      |                                                              |
 | ------------------------------------ | ------------------------------------------------------------ |
 | Chain id                             | 1064487b3cd1a897ce03ae5b6a865651747e2e152090f99c1d19d44e01aea5a4 |
-| WAX endpoints                        | https://github.com/eosswedenorg/waxtestnet/blob/master/endpoints/endpoints.json |
+| WAX & AtomicAssets endpoints         | https://validate.eosnation.io/waxtest/reports/endpoints.html |
 | Bloks                                | https://wax-test.bloks.io/                                   |
 | AtomicHub                            | https://wax-test.atomichub.io/                               |
 | NeftyBlocks                          | https://test.neftyblocks.com/                                |
@@ -18,13 +18,13 @@
 
 ### Mainnet
 
-|               |                                                              |
-| ------------- | ------------------------------------------------------------ |
-| Chain id      | 1064487b3cd1a897ce03ae5b6a865651747e2e152090f99c1d19d44e01aea5a4 |
-| WAX endpoints | https://validate.eosnation.io/wax/reports/endpoints.html     |
-| Bloks         | https://wax.bloks.io/                                        |
-| AtomicHub     | https://wax.atomichub.io/                                    |
-| NeftyBlocks   | https://neftyblocks.com/                                     |
+|                              |                                                              |
+| ---------------------------- | ------------------------------------------------------------ |
+| Chain id                     | 1064487b3cd1a897ce03ae5b6a865651747e2e152090f99c1d19d44e01aea5a4 |
+| WAX & AtomicAssets endpoints | https://validate.eosnation.io/wax/reports/endpoints.html     |
+| Bloks                        | https://wax.bloks.io/                                        |
+| AtomicHub                    | https://wax.atomichub.io/                                    |
+| NeftyBlocks                  | https://neftyblocks.com/                                     |
 
 ## Useful tools
 
@@ -56,6 +56,8 @@
 | eospy           | eos python library                                           | https://github.com/eosnewyork/eospy                      |
 | aioeos          | Async Python library for interacting with EOS.io blockchain. | https://github.com/ulamlabs/aioeos                       |
 | atomicassets-js | NPM module to interact with the AtomicAssets NFT standard    | https://github.com/pinknetworkx/atomicassets-js          |
+| dFuse           | GraphQL API                                                  | https://wax.dfuse.eosnation.io/                          |
+| demux-js-eos    | Demux Action Reader implementations to read block and action data from EOSIO-based blockchains. | https://github.com/EOSIO/demux-js-eos                    |
 
 
 
